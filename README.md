@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave:, I'm Rootkiddo!</strong></summary>
-Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
+Part-time Bug Hunter, Currently Studying At SMKN 59 Jakarta
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootkiddoo&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -7,6 +7,9 @@ Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
 <p>
     <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40" />&nbsp;
     </div>
 </p>
