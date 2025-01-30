@@ -22,5 +22,5 @@ Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
   <img align="left" alt="Dibz Twitter" width="20px" src="https://simpleicons.org/icons/x.svg" />
 </a>
 <a href="https://www.instagram.com//">
-  <img align="left" alt="Dibz Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="Dibz Instagram" width="20px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
