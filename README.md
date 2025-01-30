@@ -6,8 +6,8 @@ Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
 ###  <summary><strong>:hammer_and_wrench: Language & Tools:</strong></summary>
 <p>
     <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40" color="white" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40" />&nbsp;
     </div>
 </p>
 
