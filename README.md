@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+# <summary><strong>Hi there :wave: , I'm Rootkiddo!</strong></summary>
 Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -19,8 +19,8 @@ Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://x.com/rexpyz">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Dibz Twitter" width="20px" src="https://simpleicons.org/icons/x.svg" />
 </a>
 <a href="https://www.instagram.com//">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="Dibz Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
