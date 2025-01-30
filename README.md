@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Rootkiddo!</strong></summary>
+# <summary><strong>Hi there :wave:, I'm Rootkiddo!</strong></summary>
 Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootkiddoo&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -7,7 +7,7 @@ Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
 <p>
     <div>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40" color="white" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40" color="white" />
     </div>
 </p>
 
