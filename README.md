@@ -3,7 +3,7 @@ Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootkiddoo&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-### <summary><strong> :Hammer_and_Wrench: Language & Tools:</strong></summary>
+### :Hammer_and_Wrench: <summary><strong>Language & Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
