@@ -5,7 +5,10 @@ Bug Bounty Hunter, Currently Studying At SMKN 59 Jakarta
 
 ###  <summary><strong>:hammer_and_wrench: Language & Tools:</strong></summary>
 <p>
+    <div>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40" />
+    </div>
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
